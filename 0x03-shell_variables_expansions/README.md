@@ -1,1 +1,1 @@
-Create variables expansions
+Commands for variable expansions

@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "hello MyRoot"
+printf "hello $user"
